@@ -2,7 +2,7 @@
 
 /**
  * main - entry point
- * return : 0 if exited properly, non zero otherwise
+ * return : Always 0 (success) if exited properly, non zero otherwise
  */
 int main(void)
 {
