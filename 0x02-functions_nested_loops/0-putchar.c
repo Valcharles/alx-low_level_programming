@@ -2,8 +2,9 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (Success)
+ * Return: nothing, return void
  */
+
 int main(void)
 {
 	_putchar('_');
@@ -18,4 +19,3 @@ int main(void)
 
 	return (0);
 }
-
