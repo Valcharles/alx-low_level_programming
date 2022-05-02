@@ -23,7 +23,6 @@ int x;
 					return (haystack);
 
 				x++;
-			
 			} while (haystack[x] == needle[x]);
 		}
 
